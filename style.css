@@ -60,7 +60,9 @@ body #map{
 
 .actionli:hover{
     background-color: rgb(37, 58, 58);
+    border-left: 0.2em solid white;
+    
 }
 .actionli{
-    padding-left: 30px;
+    padding-left: 20px;
 }
