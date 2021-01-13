@@ -9,7 +9,7 @@ body{
     padding-left: 30px;
     font-size: medium;
 }
-a{
+a.nav{
     text-decoration: none;
     color: white;
     text-shadow: antiquewhite;
@@ -28,7 +28,39 @@ body video{
     width: 100%;
     height:100%;
 }
+video{
+    margin-bottom: 0;
+}
+article{
+    margin: 0;
+}
+ul{
+    margin:0;
+}
+li{
+    margin:0;
+}
 body #map{
     width: 100%;
     height:500px;
+}
+#actions{
+    background-color:darkslategrey;
+}
+#actionlist{
+    list-style-type: none;
+    color: white;
+    line-height: 3;
+    padding:20px;
+    margin-top: none;
+}
+.action{
+    text-decoration: none;
+}
+
+.actionli:hover{
+    background-color: rgb(37, 58, 58);
+}
+.actionli{
+    padding-left: 30px;
 }
