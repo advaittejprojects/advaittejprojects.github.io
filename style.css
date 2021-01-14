@@ -110,18 +110,20 @@ body .dheading{
 body .dsheading{
     display:block;
     font-size: 1.5em;
-    font-family:'Times New Roman', Times, serif;
-    padding:0.25em
+    font-family:monospace;
+    padding:0.5em;
+    font-weight: bold;
 }
 body .ddes{
     display:block;
-    font-size:1em;
-    font-family:cursive;
+    font-size:1.25em;
+    font-family:monospace;
+    font-style: italic;
 }
 body .imgd{
     width: 100%;
 }
 #trh1{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 3em;
 }
