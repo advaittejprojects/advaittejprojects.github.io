@@ -75,3 +75,36 @@ body .img{
     vertical-align: middle;
     padding: 2%;
 }
+#trh1{
+    text-align: center;
+    margin:none;
+}
+#innav ul{
+    list-style-type: none;
+    margin:none;
+    background-color: darkslategray;
+    padding:1em;
+}
+.navd{
+    text-decoration: none;
+    color: white;
+}
+#innav ul li{
+    padding:0.5em;
+    padding-left: 2em;
+}
+#innav ul li:hover{
+    background-color: rgb(37, 58, 58);
+    border-left: 0.2em solid white;;
+}
+body #Fjord,#East,#North,#Tron,#Sval{
+    padding-left: 2em;
+    padding:2em;
+}
+body .dheading{
+    display:block;
+    font-size: 3em;
+}
+body .imgd{
+    width: 100%;
+}
