@@ -104,7 +104,24 @@ body #Fjord,#East,#North,#Tron,#Sval{
 body .dheading{
     display:block;
     font-size: 3em;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+body .dsheading{
+    display:block;
+    font-size: 1.5em;
+    font-family:'Times New Roman', Times, serif;
+    padding:0.25em
+}
+body .ddes{
+    display:block;
+    font-size:1em;
+    font-family:cursive;
 }
 body .imgd{
     width: 100%;
+}
+#trh1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
 }
