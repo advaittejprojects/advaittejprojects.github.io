@@ -17,6 +17,9 @@ a.nav{
     font-weight: bold;
     padding-left: 25px;
 }
+.nav:hover{
+    color: azure;
+}
 #footer{
     font-family:-'Segoe UI', sans-serif;
     background-color:rgb(214, 244, 255); 
@@ -65,4 +68,10 @@ body #map{
 }
 .actionli{
     padding-left: 20px;
+}
+body .img{
+    float:left;
+    width: 40%;
+    vertical-align: middle;
+    padding: 2%;
 }
