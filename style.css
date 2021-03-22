@@ -141,15 +141,24 @@ body .imgd{
 .underlist li{
     float: left;
 }
-#Services a{
-    color: rgb(38, 61, 61);
-}
-
-.servicelist:hover{
-    border: 0.05em solid rgb(73, 172, 104);
-    border-left:0.3em solid rgb(73, 172, 104);
-}
 article{
     margin: none;
     padding: none;
+}
+body #flight{
+    padding-left: 40%;
+}
+.triplist{
+    padding:0.5em 0;
+    color:grey;
+}
+.triplist a:hover{
+    color: black;
+}
+body #hotelimg{
+    width:100%;
+}
+.triplist a{
+    text-decoration: none;
+    color: grey;
 }
